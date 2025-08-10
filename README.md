@@ -42,4 +42,3 @@ The `Journal Book.pdf` offers insights into the bug bounty process, including:
 
 ---
 
-Feel free to customize this template further to better fit your project's specifics.
